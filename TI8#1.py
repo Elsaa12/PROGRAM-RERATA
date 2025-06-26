@@ -1,12 +1,3 @@
-"""
-PROGRAM RERATA
-Nama : Elsa Aiziyah
-NIM  : 21305144025
-Kelas: Matematika E
-
-Input: integer atau float
-Output: rerata
-"""
 print("="*90)
 a = "PROGRAM RERATA".center(90)
 print(a)
